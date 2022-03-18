@@ -1,0 +1,57 @@
+﻿#foto {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 50%
+}
+
+#dotnet {
+    width: 500px;
+}
+
+.seccion-bienvenida {
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+.seccion-bienvenida h1 {
+        margin-bottom: 1rem;
+    }
+
+.seccion-bienvenida p {
+        font-family: sans-serif;
+        line-height: 1.5;
+        font-size: 1.25rem;
+    }
+
+.header {
+    font-weight: bold;
+}
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades i {
+    color: black;
+    font-size: 50px;
+}
+
+.header {
+    background-image: radial-gradient(circle at 50% -10.66%, #2cffff 0, #45d3ff 25%, #4294d4 50%, #325a80 75%, #1c2838 100%);
+}
+
+.home {
+    background-image: radial-gradient(circle at 50% -10.66%, #2cffff 0, #45d3ff 25%, #4294d4 50%, #325a80 75%, #1c2838 100%);
+}
+
+.footer {
+    background-image: radial-gradient(circle at 50% -10.66%, #2cffff 0, #45d3ff 25%, #4294d4 50%, #325a80 75%, #1c2838 100%);
+}
+
+.container {
+    color: white;
+}
+
+
+
