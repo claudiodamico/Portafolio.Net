@@ -1,2 +1,2 @@
 # Portafolio.Net
-Portafolio realizado en net Core
+Portafolio realizado en .Net 
